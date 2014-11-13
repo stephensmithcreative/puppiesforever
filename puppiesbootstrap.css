@@ -115,10 +115,12 @@ p {
     text-align: center !important;
     font-family: open sans, helvetica, arial, sans-serif;
     font-weight: 100;
+    color:#196b86;
 }
 
 h3 {text-align: center !important;
     font-family: oswald, helvetica, arial, sans-serif;
+    color:#196b86;
 }
 
 img {
