@@ -64,7 +64,6 @@ body {
     letter-spacing: 1px;
     font-size: 88px;
     margin-top:100px;
-
 }
 
 /* Begin Button */
@@ -211,4 +210,10 @@ img {
     height:0px;
     margin-top:-120px;
 }
+
+.AboutHeader h1 {
+    text-align: left !important;
+    float:left;
+}
+
 
