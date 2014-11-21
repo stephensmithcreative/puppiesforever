@@ -48,6 +48,11 @@ a {
         transition:.3s;
 }
 
+.navbar-collapse {
+    border-top:none;
+    background-color: #44C4F2
+}
+
 
 /* /////////////////////// endnav //////////////////// */
 
